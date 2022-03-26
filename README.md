@@ -32,7 +32,7 @@ This is the first time I tried using Electron. So I made a simple calculator in 
     git clone https://github.com/luanrem/simpleElectronCalculator.git
    ```
 2. Enter on the folder
-  ```sh
+   ```sh
     cd simpleElectronCalculator
    ```
 3. Install YARN or NPM packages
